@@ -1,4 +1,41 @@
 body {
   font-family: "Monserrat", sans-serif;
   /* background-color: lightblue; */
+  background-color: beige;
+}
+h1 {
+  color: navy;
+}
+h2 {
+  color: navy;
+}
+h3 {
+  color: navy;
+}
+h4 {
+  color: navy;
+}
+h5 {
+  color: navy;
+}
+p {
+  color: teal;
+}
+#p1 {
+  background-color: red;
+}
+#p2 {
+  background-color: orange;
+}
+#p3 {
+  background-color: yellow;
+}
+#p4 {
+  background-color: green;
+}
+.odd {
+  color: black;
+}
+.even {
+  color: white;
 }
